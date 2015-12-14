@@ -1,8 +1,8 @@
 {
   "name": "ui-radio",
   "description": "radio button web component",
-  "version":"1.0.0",
-  "main": "",
+  "version":"1.0.1",
+  "main": "ui-radio.html",
   "authors": [
     "S. Francis"
   ],
